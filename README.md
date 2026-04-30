@@ -63,19 +63,19 @@ Columns requiring preprocessing
 
 Several preprocessing techniques were applied:
 
-✔ Handling Missing Values
+ Handling Missing Values
 
 Median imputation was used for skewed numerical columns.
 
-✔ Standardizing Column Names
+ Standardizing Column Names
 
 Column names were converted to lowercase and formatted consistently.
 
-✔ Date Formatting
+ Date Formatting
 
 Date columns were converted into proper datetime format.
 
-✔ Removing Duplicates
+ Removing Duplicates
 
 Duplicate rows were identified and removed.
 
@@ -94,15 +94,15 @@ This improved data distribution and reduced noise.
 
 Several transformations were applied:
 
-✔ Reshaping Data
+ Reshaping Data
 
 The stock prices dataset was transformed from wide format into long format using melt().
 
-✔ Dataset Merging
+ Dataset Merging
 
 Different datasets were merged using customer IDs, timestamps, and stock tickers.
 
-✔ Creating New Features
+ Creating New Features
 
 A new feature was created:
 
@@ -110,7 +110,7 @@ Total Trade Amount = Stock Price × Quantity
 
 This metric helps estimate transaction value for each trade.
 
-📈 Key Insights
+ Key Insights
 
 Through the analysis:
 
