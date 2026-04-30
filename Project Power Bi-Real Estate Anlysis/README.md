@@ -118,9 +118,9 @@ Better understand customer demand
  For Real Estate Companies:
 Focus on high-demand locations
 Optimize property features instead of just increasing size
-💰 For Investors:
+ For Investors:
 Look beyond total price → analyze price per unit area
 Target mid-range properties for stable demand
-🧑‍💻 For Data Teams:
+For Data Teams:
 Always prioritize data cleaning before visualization
 Combine multiple tools (Python + BI tools) for better results
